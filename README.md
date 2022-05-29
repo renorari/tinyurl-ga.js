@@ -5,12 +5,7 @@ tinyurl.gaのNode.jsラッパー
 ## 例
 
 ```js
-/*    tinyurl-ga.js test   */
-/*    (c) 2022 Renorari    */
-/*         GPL-3.0         */
-
-// 本番で実行する場合は「./index」を「tinyurl-ga.js」に置き換えて使用してください
-const { create } = require("./index");
+const { create } = require("tinyurl-ga.js");
 
 // Asyncで実行
 (async () => {

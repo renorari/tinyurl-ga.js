@@ -3,7 +3,7 @@
 /*         GPL-3.0         */
 
 /**
- * 短URLを作成
+ * tinyurl.gaで短縮URLを作成
  * @param {string} url - URL
  */
 function create(url) {
