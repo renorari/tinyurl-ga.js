@@ -4,7 +4,7 @@
 
 /**
  * tinyurl.gaで短縮URLを作成
- * @param {string} url - URL
+ * @param {string} url - 短縮したいURL
  */
 function create(url) {
     return new Promise((resolve, reject) => {
