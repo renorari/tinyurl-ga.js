@@ -1,10 +1,3 @@
-# tinyurl-ga.js
-
-tinyurl.gaのNode.jsラッパー
-
-## 例
-
-```js
 /*    tinyurl-ga.js test   */
 /*    (c) 2022 Renorari    */
 /*         GPL-3.0         */
@@ -26,4 +19,3 @@ create("https://blog.renorari.net/")
         console.log("Thenで実行: ");
         console.log(data);
     });
-```

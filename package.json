@@ -1,0 +1,31 @@
+{
+  "name": "tinyurl-ga.js",
+  "version": "1.0.0",
+  "description": "tinyurl.gaのNode.jsラッパー",
+  "main": "index.js",
+  "scripts": {
+    "test": "node -e console.log('付属のREADME.mdをご参照ください')"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renorari/tinyurl-ga.js.git"
+  },
+  "keywords": [
+    "tinyurl",
+    "ga",
+    "tinyurl-ga"
+  ],
+  "author": "Renorari",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/renorari/tinyurl-ga.js/issues"
+  },
+  "homepage": "https://github.com/renorari/tinyurl-ga.js#readme",
+  "devDependencies": {
+    "eslint": "^8.16.0"
+  },
+  "engines": {
+    "node": "^18",
+    "vscode": "^1.22.0"
+  }
+}
